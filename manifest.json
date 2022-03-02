@@ -1,6 +1,6 @@
 {
-  "short_name": "RG백현초",
-  "name": "백현초 리딩게이트",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
